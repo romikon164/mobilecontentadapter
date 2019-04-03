@@ -373,4 +373,14 @@ class MobileContentAdapter
     {
         return @json_encode($this->content);
     }
+
+    /**
+     * Короткий вызов toJson
+     * 
+     * @return string
+     */
+    public function json()
+    {
+    	return $this->toJson();
+    }
 }
