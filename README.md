@@ -31,4 +31,4 @@ $json = (new MobileContentAdaptor('<my-tag>...</my-tag>'))->toJson();
 ```
 ## Authors
 
-* **Roman Byzov** - [PurpleBooth](https://github.com/romikon164)
+* **Roman Byzov** - [romikon164](https://github.com/romikon164)
